@@ -1,7 +1,7 @@
 "use client"
 import { useState } from 'react'
 
-const API = 'http://localhost:8002'
+const API = 'http://localhost:8004'
 
 const samplePosts = [
   { text: "This product is absolutely amazing! Love it so much 🎉", expected: 'Positive' },
